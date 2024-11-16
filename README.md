@@ -1,7 +1,7 @@
 <!-- Header -->
 <h3 align="center">
   <div>
-    &gt; Radhe Radhe, I am <a href="https://www.rajivghimire.com.np/" target="_blank">Rajiv G</a> 
+    &gt; Radhe Radhe 🙏, I am <a href="https://www.rajivghimire.com.np/" target="_blank">Rajiv G</a> 
   </div>
 </h3>
 
