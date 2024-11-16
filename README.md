@@ -16,6 +16,6 @@
 
 <!-- Coding img -->
 <div align="center">
-    <img align="right" src="assets/gif/dev.gif"  >
+    <img src="assets/gif/dev.gif"  >
 </div>
 <br />
