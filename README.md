@@ -19,3 +19,10 @@
     <img src="assets/gif/dev.gif"  >
 </div>
 <br />
+
+<!-- streak -->
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghimireofficial&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="rajivghimireofficial's streak" />
+</a>
+</p>
