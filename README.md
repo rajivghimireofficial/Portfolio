@@ -26,3 +26,36 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajivghimireofficial&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="rajivghimireofficial's streak" />
 </a>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!-- Social media -->
+### <samp>🌐 Connected in:</samp>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajivghimireofficial" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/rajivghimire" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/rajivghimireofficial" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/facebook-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rajivghimireofficial" target="_blank" rel="noopener noreferrer"><img src="https://github.githubassets.com/favicons/favicon.svg"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rajivghimireofficial/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/instagram-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-youtube-is-an-american-video-sharing-and-now-googles-subsidiaries-logo-color-tal-revivo.png"  width="50" /></a>
+  &nbsp;&nbsp;
+   <a href="mailto:rajivghimire14@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/512/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+</p>
+
+
+<!-- footer -->
+<div align="center">
+  <samp>
+    <h3 align="center">
+        ════ ⋆★⋆ ════
+    </h3>
+  </samp>
+</div>
